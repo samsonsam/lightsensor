@@ -1,0 +1,8 @@
+.idea/*
+*.sqlite
+
+\.DS_Store
+
+lightsensor\.iml
+
+out/artifacts/lightsensor_jar/lightsensor\.jar
